@@ -6,7 +6,7 @@ public class GroupProject {
         //System.out.println(returnSumAsString(3, 4));
 
         //System.out.println(calculateFactorial(5));
-        System.out.println(otherWayToFaculty(5));
+        System.out.println(otherWayToFaculty(6));
 
     }
 
