@@ -3,7 +3,7 @@ public class GroupProject {
     public static void main (String[] args) {
         //int sum = sumUp(1, 2);
         //System.out.println(sum);
-        //System.out.println(returnSumAsString(3, 4));
+        System.out.println(returnSumAsString(3, 4));
 
         //System.out.println(calculateFactorial(5));
         System.out.println(otherWayToFaculty(6));
